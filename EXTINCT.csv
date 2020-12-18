@@ -1,0 +1,19 @@
+assessment_id,id_no,binomial,presence,origin,seasonal,compiler,year,citation,legend,subspecies,subpop,dist_comm,island,tax_comm,source,basisofrec,event_year,longitude,latitude
+1970358,191116,Atherinella callida,5,1,1,IUCN Freshwater Biodiversity Unit,2018,Topiltzin Contreras McBeath,Extinct, , , , , ,T. Contreras McBeath 2014, ,,-96.63333,18.54999924
+3107502,6176,Cyprinodon inmemoriam,5,1,1,IUCN Freshwater Biodiversity Unit,2018,IUCN (International Union for Conservation of Nature),Extinct, , , , ,Type locality,Miller et al. 2005, ,,-100.1,21.19
+3145702,8431,Evarra bustamantei,5,1,1,"Soto-Galera, E. and L. Alcántara-Soria, ENCB-IPN-P",2018,IUCN (International Union for Conservation of Nature),Extinct, , , , , , ,PRESERVED_SPECIMEN,1954,-99.02861,19.25694
+3145702,8431,Evarra bustamantei,5,1,1,"Soto-Galera, E. and L. Alcántara-Soria, ENCB-IPN-P",2018,IUCN (International Union for Conservation of Nature),Extinct, , , , , , ,PRESERVED_SPECIMEN,1955,-99.02861,19.25694
+3145702,8431,Evarra bustamantei,5,1,1,"Soto-Galera, E. and L. Alcántara-Soria, ENCB-IPN-P",2018,IUCN (International Union for Conservation of Nature),Extinct, , , , , , ,PRESERVED_SPECIMEN,1956,-99.09528,19.28194
+3145753,8432,Evarra eigenmanni,5,1,1,"Soto-Galera, E. and L. Alcántara-Soria, ENCB-IPN-P",2018,IUCN (International Union for Conservation of Nature),Extinct, , , , , , ,PRESERVED_SPECIMEN,1954,-99.02861,19.25694
+3145753,8432,Evarra eigenmanni,5,1,1,"Soto-Galera, E. and L. Alcántara-Soria, ENCB-IPN-P",2018,IUCN (International Union for Conservation of Nature),Extinct, , , , , , ,PRESERVED_SPECIMEN,1956,-99.09528,19.28194
+3145804,8433,Evarra tlahuacensis,5,1,1,"Soto-Galera, E. and L. Alcántara-Soria, ENCB-IPN-P",2018,IUCN (International Union for Conservation of Nature),Extinct, , , , , , ,PRESERVED_SPECIMEN,1954,-99.02861,19.25694
+3145804,8433,Evarra tlahuacensis,5,1,1,"Soto-Galera, E. and L. Alcántara-Soria, ENCB-IPN-P",2018,IUCN (International Union for Conservation of Nature),Extinct, , , , , , ,PRESERVED_SPECIMEN,1956,-99.09528,19.28194
+44787125,44786445,Eulophia stenopetala,1,1,1,"",2015,"",Extant (resident),,,,,,Flora of Bhutan,specimen,,89.81666667,27.51666667
+44787125,44786445,Eulophia stenopetala,1,1,1,"",2015,"",Extant (resident),,,,,,Flora of Bhutan,specimen,,89.86666667,27.58333333
+115653635,21663,Tetradactylus eastwoodae,5,1,1,South African Regional Reptile Specialist Group,2018,South African National Biodiversity Institute,Extinct,,,,,,,HumanObservation,1911,23.95,-23.875
+115670551,44979051,Scelotes guentheri,5,1,1,South African Regional Reptile Specialist Group,2018,South African National Biodiversity Institute,Extinct,,,,,,,HumanObservation,1887,30.8275,-29.84666389
+124282152,117319979,Etlingera heyneana,5,1,1,ZRC,2019,ZRC,Extinct,,,Batavia (=Jakarta) Sentiong,,"",,PreservedSpecimen,0,106.8525,-6.210278
+158050426,158037164,Pycnandra micrantha,5,1,1,"Muzinger J., Maura J.",2016,NC Plants RLA,Extinct, ,,,,,,,0,163.66027778,-19.72138889
+168301470,6331,Deloneura immaculata,5,1,1,Southern African Lepidoptera Conservation Assessment project,2018,Southern African Lepidoptera Conservation Assessment project,Extinct,,,,,,"LepiMAP, SAM-LEP",,0,28.60000038,-32.04999924
+168301541,11537,Lepidochrysops hypopolia,5,1,1,Southern African Lepidoptera Conservation Assessment project,2018,Southern African Lepidoptera Conservation Assessment project,Extinct,,,,,,"LepiMAP, BMNH(E)",,0,29.48333359,-28.5
+168301541,11537,Lepidochrysops hypopolia,5,1,1,Southern African Lepidoptera Conservation Assessment project,2018,Southern African Lepidoptera Conservation Assessment project,Extinct,,,,,,"LepiMAP, NCS",,0,29.49555016,-28.50735092

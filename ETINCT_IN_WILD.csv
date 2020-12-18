@@ -1,0 +1,5 @@
+assessment_id,id_no,binomial,presence,origin,seasonal,compiler,year,citation,legend,subspecies,subpop,dist_comm,island,tax_comm,source,basisofrec,event_year,longitude,latitude
+154696297,152357598,Amomum sumatranum,5,1,1,ZRC,2019,ZRC,Extinct,,,"Palembang, Rawas",,,,PreservedSpecimen,0,104.75,-2.916667
+110113066,110097724,Aloe silicicola,1,1,1,Solofo Rakotoarisoa,2018,"Rakotoarisoa, S. (RBG Kew)",Extant (resident),,,,Madagascar,,, ,0,47.05,-20.05
+110113066,110097724,Aloe silicicola,1,1,1,Solofo Rakotoarisoa,2018,"Rakotoarisoa, S. (RBG Kew)",Extant (resident),,,,Madagascar,,, ,0,47.2,-19.41666667
+546437,14881,Notropis amecae,6,2,1,"Soto-Galera, E. and L. Alcántara-Soria, ENCB-IPN-P",2018,IUCN (International Union for Conservation of Nature),Presence Uncertain & Reintroduced, , , , , , ,PRESERVED_SPECIMEN,1999,-103.84308,20.6852
